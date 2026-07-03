@@ -1,0 +1,6 @@
+{
+  "name": "Flutter Object Detector",
+  "description": "A high-fidelity Flutter Material-styled real-time on-device and AI cloud object recognition camera application.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
